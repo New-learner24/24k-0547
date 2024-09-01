@@ -1,10 +1,10 @@
 **INTRO**
 
-welcome to my GitHub repository!
+* welcome to my GitHub repository!
 
-i am sanjna kumari a CS student at FAST NUCES 
+* i am sanjna kumari a CS student at FAST NUCES 
 
-This repository showcases my projects and assignments
+* This repository showcases my projects and assignments
 
 **ABOUT ME**
 
